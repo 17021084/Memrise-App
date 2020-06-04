@@ -6,7 +6,7 @@ This project is my Assigment of Mobile App Delveloment Course. <br>
 
 I love styding language, specially Japanese. I use  [Memrise](https://www.memrise.com/) to learn and review Japanese quickly in every day.It very helpful.So i decided re-make it 
 
-<br>[ Click to watch demo video]('https://www.youtube.com/watch?v=DKrcfbrA1S4') 
+<br>[ Click to watch demo video](https://www.youtube.com/watch?v=DKrcfbrA1S4) 
 
 ## Function　
 1. Learn and review Japanese'vocaburary
@@ -50,7 +50,7 @@ npm start
 
 
 
-<br> [ デモビデオをクリックしてください]('https://www.youtube.com/watch?v=DKrcfbrA1S4') 
+<br> [ デモビデオをクリックしてください](https://www.youtube.com/watch?v=DKrcfbrA1S4) 
 
 ## 機能
 
