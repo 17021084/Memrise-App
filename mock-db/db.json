@@ -15,7 +15,7 @@
             "いえ",
             "おや"
           ],
-          "miss": true
+          "miss": false
         },
         {
           "mems": [
@@ -598,16 +598,16 @@
       "listWord": [
         {
           "mems": [
-            "Chữ V người Nhật đọc là Bề "
+            "Hán việt là bản"
           ],
-          "id": 6,
-          "word": "ベトナム",
+          "id": 8,
+          "word": "本",
           "yomikata": [
-            "べとなむ"
+            "ほん"
           ],
-          "mean": "Việt Nam",
+          "mean": "Sách",
           "miss": false,
-          "level": 2
+          "level": 1
         },
         {
           "mems": [
@@ -624,19 +624,6 @@
         },
         {
           "mems": [
-            " TỪ gốc là 'Ngân Hành' người việt gọi là ngân hàng "
-          ],
-          "id": 7,
-          "word": "銀行",
-          "yomikata": [
-            "ぎんこう"
-          ],
-          "mean": "Ngân hàng",
-          "level": 0,
-          "miss": true
-        },
-        {
-          "mems": [
             "Thời trong thời gian , Kế trong kê toán => cái tính toán thời gian là "
           ],
           "id": 10,
@@ -647,32 +634,6 @@
           "mean": "Đồng hồ",
           "miss": false,
           "level": 2
-        },
-        {
-          "mems": [
-            "Tự chuyển xa , xe mình tự di chuyển"
-          ],
-          "id": 13,
-          "word": "自転車",
-          "yomikata": [
-            "じてんしゃ"
-          ],
-          "mean": "Xe đạp",
-          "miss": false,
-          "level": 1
-        },
-        {
-          "mems": [
-            "Hán việt là Duyên Bút"
-          ],
-          "id": 9,
-          "word": "鉛筆",
-          "yomikata": [
-            "えんぴつ"
-          ],
-          "mean": "Bút chì",
-          "miss": false,
-          "level": 3
         },
         {
           "mems": [
@@ -689,16 +650,42 @@
         },
         {
           "mems": [
-            "Hán việt là bản"
+            "Tự chuyển xa , xe mình tự di chuyển"
           ],
-          "id": 8,
-          "word": "本",
+          "id": 13,
+          "word": "自転車",
           "yomikata": [
-            "ほん"
+            "じてんしゃ"
           ],
-          "mean": "Sách",
+          "mean": "Xe đạp",
           "miss": false,
           "level": 1
+        },
+        {
+          "mems": [
+            "Chữ V người Nhật đọc là Bề "
+          ],
+          "id": 6,
+          "word": "ベトナム",
+          "yomikata": [
+            "べとなむ"
+          ],
+          "mean": "Việt Nam",
+          "miss": false,
+          "level": 2
+        },
+        {
+          "mems": [
+            "Hán việt là Duyên Bút"
+          ],
+          "id": 9,
+          "word": "鉛筆",
+          "yomikata": [
+            "えんぴつ"
+          ],
+          "mean": "Bút chì",
+          "miss": false,
+          "level": 3
         }
       ],
       "id": 5
