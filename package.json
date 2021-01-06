@@ -15,7 +15,7 @@
     "@react-navigation/native": "^5.1.4",
     "@react-navigation/stack": "^5.2.9",
     "add": "^2.0.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "css-waves": "^0.2.1",
     "expo": "~37.0.3",
     "full-text-search": "^0.0.16",
